@@ -1,4 +1,4 @@
-# Educational-Attainment-and-Marriage-Timing
+# **EDUCATIONAL ATTAINMENT AND MARRIAGE TIMING ANALYSIS**
 
 ![](Intro-page.jpg)
 
@@ -29,7 +29,6 @@ The following power Bi features were incorporated:
 - DAX
 - Measure
 - Quick Measure
-- Page Navigation
 - Filters 
 
 ## MODELLING
