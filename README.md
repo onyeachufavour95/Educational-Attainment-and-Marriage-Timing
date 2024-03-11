@@ -47,6 +47,32 @@ This report comprises of 4 pages:
 - Recommendation
 
 
+## SUMMARY
+
+
+1. **Marital Population Distribution:** The study reveals that 15% of the population is married, with the majority being between ages 21-30 and 31-40, especially among Bachelor's degree holders.
+
+2. **Age of Marriage and Education:** Individuals with Bachelor's degrees tend to marry more frequently within the 21-30 and 31-40 age groups, indicating a correlation between educational attainment and marriage timing.
+
+3. **Satisfaction and Timing of Marriage:** Bachelor's degree holders generally express satisfaction with the timing of their marriage, particularly in the 31-40 age group.
+
+4. **Influence of Education on Marriage Timing:** There's acknowledgment among single and married individuals of the impact of educational background on marriage timing, with varying degrees of agreement observed.
+
+5. **Highest Number of Single and Married by State of Origin:** Certain states, like Anambra and Enugu, stand out with the highest numbers of single and married individuals, respectively.
+
+6. **Societal/Cultural Expectations Influence on Marriage Timing:** Data suggests a strong acknowledgment of societal and cultural expectations influencing marriage timing, particularly among younger age groups.
+
+7. **Correlation Analysis in Power BI:** Power BI analysis reveals a perfect positive linear relationship between educational level and the timing of marriage within each gender category.
+
+8. **Interpretation of Correlation:** The correlation coefficient of 1.00 signifies that as educational level increases, the time of marriage also increases proportionally, indicating a consistent trend across genders.
+
+- **Caution:** While correlation is observed, it does not imply causation, and other factors may contribute to the relationship between education and marriage timing.
+
+## CONCLUSION 
+
+The analysis provides valuable insights into marital dynamics and their connection to educational attainment, emphasizing the prevalence of marriage within specific age groups and the influence of education on marriage timing.
+
+
 ## RECOMMENDATION
 
 - **Educational Awareness Programs:**  Initiate programs emphasizing the importance of completing a Bachelor's degree for informed decision-making regarding marriage timing.
